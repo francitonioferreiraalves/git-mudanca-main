@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/tmp/ws-teste/.metadata/.plugins/org.eclipse.jdt.core
+2163130018.index
